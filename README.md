@@ -1,4 +1,4 @@
-# AI Debate Simulator using LangGraph + Groq
+# AI Debate Simulator using LangGraph + ollama
 
 This project simulates a structured debate between two AI agents using the [LangGraph](https://python.langchain.com/docs/langgraph/) framework, LLm is loaded using ollama.
 
