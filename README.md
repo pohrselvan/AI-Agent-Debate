@@ -17,5 +17,17 @@ Each agent takes on a role (e.g., Scientist vs. Philosopher) and debates a given
 ---
 
 ## Instruction
+1. Clone github repo
+   ```bash
+   git clone https://github.com/pohrselvan/AI-Agent-Debate
 
+2. Run the ollama
+   ```bash
+   ollama run llama-3.2
 
+3. Run the `AI_debate_using_ollama.py`
+   ```bash
+   python3 AI_debate_using_ollama.py
+
+## WorkFlow 
+![Task-3](https://github.com/user-attachments/assets/5ed246ad-0226-4853-ae5c-e56ac6639a85)
