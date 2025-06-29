@@ -1,4 +1,5 @@
-# AI-Agent-Debate
+# AI Debate Simulator using LangGraph + Ollama
 
+This project simulates a structured debate between two AI agents using the [LangGraph](https://python.langchain.com/docs/langgraph/) framework, Model is loaded using ollama.
 
-![Task-3](https://github.com/user-attachments/assets/9bebaa2e-bc52-4ab9-b648-9d5f296d3d01)
+Each agent takes on a role (e.g., Scientist vs. Philosopher) and debates a given topic through several turns. A third AI (the Judge) evaluates the conversation and declares a winner.
